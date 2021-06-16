@@ -29,7 +29,7 @@ body {
     text-transform: uppercase;
     font-family: sans-serif;
     background-color: gainsboro;
-    height:42px;
+    height:42px; 
 }
 .nav-wrapper a{
     text-decoration: none;
