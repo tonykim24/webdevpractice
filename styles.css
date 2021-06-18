@@ -31,7 +31,6 @@ body {
 .nav-wrapper{
     text-transform: uppercase;
     font-family: sans-serif;
-    /* position:absolute; */
     top:0;
     background-color: gainsboro;
     height:42px; 
